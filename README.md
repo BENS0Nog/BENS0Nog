@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BENS0N
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Now/cyber security and python project
+- 💞️ I’m looking to collaborate on Network/cyber security and python project
 
 
 <!---
